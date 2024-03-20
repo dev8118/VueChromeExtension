@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "goldminer",
+    "version": "1.0.0",
+    "description": "connect bc crasn trendball and catch data, autorunning",
+    "host_permissions": ["https://zenquotes.io/"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/logo-16x16.png",
+        "48": "images/logo-48x48.png",
+        "192": "images/logo-192x192.png"
+      }
+    }
+  }
